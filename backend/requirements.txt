@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+pg8000
+pgvector
+python-multipart
+python-dotenv
+google-genai
+python-docx
+pypdf
+markdownify
+beautifulsoup4
+requests
+duckduckgo-search

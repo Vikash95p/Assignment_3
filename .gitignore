@@ -1,0 +1,36 @@
+# Environments
+.env
+.env.*
+!.env.example
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Dependencies
+node_modules/
+backend/venv/
+backend/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build and Cache
+dist/
+build/
+.vite/
+*.log
+.eslintcache
+
+# DB & specific artifacts
+uploads/
+*.sqlite3
+*.db
+backend/uploads/
